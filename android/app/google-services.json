@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "552527345591",
+    "firebase_url": "https://muvitix.firebaseio.com",
+    "project_id": "muvitix",
+    "storage_bucket": "muvitix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552527345591:android:66263c7718fdfa200b9a32",
+        "android_client_info": {
+          "package_name": "com.example.muvitix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552527345591-d64p3rvcoiuguat1uf2ors22j12nlsg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfWuuq4Fn9A4YYTiLASEnPOJ3ciELWbwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552527345591-d64p3rvcoiuguat1uf2ors22j12nlsg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
