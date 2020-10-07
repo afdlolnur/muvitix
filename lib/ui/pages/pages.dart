@@ -1,3 +1,6 @@
+import 'package:email_validator/email_validator.dart';
+import 'package:flushbar/flushbar.dart';
+import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:muvitix/bloc/blocs.dart';
 import 'package:muvitix/services/services.dart';
 import 'package:muvitix/shared/shared.dart';
