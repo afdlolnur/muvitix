@@ -1,6 +1,8 @@
 import 'package:email_validator/email_validator.dart';
 import 'package:flushbar/flushbar.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
+import 'package:google_fonts/google_fonts.dart';
+import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 import 'package:muvitix/bloc/blocs.dart';
 import 'package:muvitix/services/services.dart';
 import 'package:muvitix/shared/shared.dart';

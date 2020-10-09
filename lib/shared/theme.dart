@@ -2,14 +2,23 @@ part of 'shared.dart';
 
 const double defaultMargin = 24;
 Color bgColor = Color(0xFF1C1D3E);//navymuda
+
 Color mainColor = Color(0xFFDD4C7A);//pink
 Color mutedMainColor = Color(0xFF8B2C54);//pinkmuted
+
+
+Color mutedbgColor = Color(0xFF09091B);//
+
+
+
+Color mainColor2 = Color(0xFF595DCC);//purple
+
+Color mainColor3 = Color(0xFF32C5F4);//blue2
 
 
 
 
 // Color mainColorblue = Color(0xFF32C5F4);//blue1
-Color mainColor2 = Color(0xFF595DCC);//purple
 // Color mainColor2 = Color(0xFF32C5F4);//blue2
 
 //digunakan
