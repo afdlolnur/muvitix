@@ -41,7 +41,9 @@ class SplashPage extends StatelessWidget {
                           ),
                         ),
                         color: mainColor,
-                        onPressed: () {})),
+                        onPressed: () {
+                          context.bloc<PageBloc>().add(GoToRegistrationPage(RegistrationData()));
+                        })),
                 Row(
                   mainAxisAlignment: MainAxisAlignment.center,
                   crossAxisAlignment: CrossAxisAlignment.center,
