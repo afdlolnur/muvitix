@@ -59,6 +59,8 @@ flutter:
     - assets/ic_movie.png
     - assets/ic_movie_muted.png
     - assets/user_pic.png
+    - assets/btn_add_photo.png
+    - assets/btn_delete_photo.png
 
   #   - images/a_dot_ham.jpeg
   # An image asset can refer to one or more resolution-specific "variants", see
