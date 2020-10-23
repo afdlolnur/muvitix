@@ -46,10 +46,20 @@ class Moviepage extends StatelessWidget {
                           ],
                         ),
                       ),
+                      SizedBox(width: 16),
                       Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
                         children: <Widget>[
-                          Text("data"),
-                          Text("data"),
+                          SizedBox(
+                            width: MediaQuery.of(context).size.width - 2 * defaultMargin - 50 - 12 - 16,
+                            child: Text(
+                              userState.user.name, style: pinkKanitFont.copyWith(fontSize: 18),
+                              overflow: TextOverflow.clip,),
+                            ),
+                          Text(NumberFormat.currency(locale: "id_ID", decimalDigits: 0, symbol: "IDR ")
+                          .format(userState.user.balance), 
+                          style: blueKanitFont.copyWith(
+                            fontSize: 14, fontWeight: FontWeight.w400 )),
                         ],
                       )
                     ],

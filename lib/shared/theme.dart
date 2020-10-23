@@ -28,6 +28,8 @@ TextStyle greyKanitFont = GoogleFonts.kanit()
     .copyWith(color: Color(0xFFADADAD), fontWeight: FontWeight.w500);
 TextStyle pinkKanitFont = GoogleFonts.kanit()
     .copyWith(color: Color(0xFFDD4C7A), fontWeight: FontWeight.w500);
+TextStyle blueKanitFont = GoogleFonts.kanit()
+    .copyWith(color: Color(0xFF32C5F4), fontWeight: FontWeight.w500);
 
 
 // TextStyle whiteTextFont = GoogleFonts.kanit()
